@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software developer who mainly works with the [Magento](https://magento.com/).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<img src="https://user-images.githubusercontent.com/13532448/123942334-a9bedd80-d9b8-11eb-8df0-b8b22ef33c6c.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/13532448/123942346-ab88a100-d9b8-11eb-8ce0-7e7a6e1e9fda.png" width="200">
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juashyam@pm.me](mailto:juashyam@pm.me)
